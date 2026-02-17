@@ -1,6 +1,6 @@
 # Rocket Dash (Python Game)
 
-Rocket Dash is a simple arcade-style game developed in Python as part of the Programming I module at the University of Kent.
+Rocket Dash is a simple arcade-style game developed in Python as part of the Programming I module at the University of Kent. The project demonstrates core programming concepts including control flow, game loop implementation, collision detection, and state management.
 
 ## Features
 - Player-controlled rocket movement
@@ -20,3 +20,9 @@ Rocket Dash is a simple arcade-style game developed in Python as part of the Pro
 
 ## Academic Context
 This project was developed during Stage 1 of my BSc (Hons) Computer Science degree.
+
+## Screenshot
+
+![Rocket Dash gameplay](https://github.com/user-attachments/assets/bd4a783f-4caf-465f-8b09-ae35f1ddd73b)
+
+*Rocket Dash gameplay*
